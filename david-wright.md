@@ -5,3 +5,5 @@
 *Food:*  Curry
 
 *Hobby:*  Football
+
+*Color:*  Purple
