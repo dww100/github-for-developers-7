@@ -6,4 +6,6 @@
 
 *Hobby:*  Football
 
-*Color:*  Purple
+*Colour:*  Purple
+
+*TV:* Castle
